@@ -2,9 +2,9 @@
 プログラムワークショップⅣの第2回の管理用です
 
 # 結果画像
+<img width="1874" height="826" alt="スクリーンショット 2026-09-30 145026" src="https://github.com/user-attachments/assets/470d28f5-2d6a-40ae-8f6f-1315b21d7412" />
 
-![第2回の結果](???.png)
-- 工夫した点：xxx
+- 工夫した点：Ztest GreaterとCull Frontを入れました
 
 # 進め方
 
